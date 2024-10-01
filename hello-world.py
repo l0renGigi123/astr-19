@@ -9,7 +9,7 @@ def main():
 
 #when we run program this executes first
 #python has failsafe that allows to write complicated program
-	if _name_=="_main_":
+	if __name__=="__main__":
 		main()
 
 
